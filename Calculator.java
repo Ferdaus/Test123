@@ -12,5 +12,9 @@ public class Calculator {
 		return a+b;
 	}
 
+	static int subtract(int a, int b)
+	{
+		return a-b;
+	}
 
 }
